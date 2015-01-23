@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ### The Spoon-Knife Repository
+=======
+### Well hello there! changing stuff
+>>>>>>> Stashed changes
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
